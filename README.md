@@ -48,11 +48,9 @@ This will:
 python report_generator.py
 ```
 
-Outputs: `Lab11_Final_Report.pdf` with comprehensive analysis
-
 ### Customize Parameters
 
-Edit `lab11_epidemics.py` to modify:
+Edit `main.py` to modify:
 
 ```python
 # Population structure
