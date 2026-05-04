@@ -34,7 +34,7 @@ cd epidemic-vaccination-model
 ### Run the Simulation
 
 ```bash
-python lab11_epidemics.py
+python main.py
 ```
 
 This will:
